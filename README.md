@@ -7,3 +7,5 @@ Installing http-server library globally:
 Open files and folders with http-server:
 
 `http-server ./ `
+
+Added Normalize CSS via CDN.
